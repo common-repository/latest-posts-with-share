@@ -1,0 +1,22 @@
+.lps-div {
+   padding:10px;
+   overflow:hidden;
+   background-color:#fff;
+   clear:both;   
+}
+
+.lps-div ul li {
+   background:none repeat scroll 0 0 transparent;
+   margin:0;
+   padding-bottom:10px;
+   padding-left:0;
+}
+
+div.lps-tweetmeme {
+   float:left;
+}
+
+div.lps-tweetmeme iframe {
+   position:relative;
+   top:2px;
+}
